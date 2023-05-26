@@ -1,7 +1,7 @@
 # pirulito do amor
 
 ## Sobre
-    Projeto desenvolvido na finalidade geradora de nota para a disciplina de EMPREENDEDORISMO EM INFORMÁTICA DCT3104, ministrada pela docente [Mayniere Santos](http://www.docente.ufrn.br/mayniere.santos.075).
+Projeto desenvolvido na finalidade geradora de nota para a disciplina de EMPREENDEDORISMO EM INFORMÁTICA DCT3104, ministrada pela docente [Mayniere Santos](http://www.docente.ufrn.br/mayniere.santos.075).
 
 ## Dicentes
 1. GUILHERME ANGELO DE MEDEIROS 
